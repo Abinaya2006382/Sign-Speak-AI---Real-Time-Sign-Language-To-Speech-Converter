@@ -1,0 +1,8 @@
+-User
+-Gesture
+-Prediction
+-Speech_Output
+Relationships:
+User → Prediction (1:M)
+Gesture → Prediction (1:M)
+Prediction → Speech_Output (1:1)
