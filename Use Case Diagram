@@ -1,0 +1,9 @@
+Actor: User
+Use Cases:
+Register/Login
+Capture Hand Gesture
+Detect Sign Language
+Convert Gesture to Text
+Convert Text to Speech
+Listen to Speech Output
+View History
