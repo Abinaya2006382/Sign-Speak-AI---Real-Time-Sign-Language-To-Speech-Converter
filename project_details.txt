@@ -1,0 +1,14 @@
+Project Title:
+SignSpeak AI – Real-Time Sign Language to Speech Converter
+Problem Statement:
+Communication between hearing-impaired individuals and non-sign-language users is often difficult. An automated system is needed to translate sign language into speech instantly.
+Objectives:
+Detect hand gestures in real time.
+Convert sign language into text.
+Convert generated text into speech.
+Improve communication accessibility.
+Scope:
+Educational institutions
+Public services
+Healthcare communication
+Daily interactions
