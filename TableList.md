@@ -1,0 +1,21 @@
+Database Tables
+User
+User_ID
+Name
+Email
+Password
+Gesture
+Gesture_ID
+Gesture_Name
+Gesture_Image
+Meaning
+Prediction
+Prediction_ID
+User_ID
+Gesture_ID
+Predicted_Text
+Prediction_Time
+Speech_Output
+Speech_ID
+Prediction_ID
+Generated_Speech
